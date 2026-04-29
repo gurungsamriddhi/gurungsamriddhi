@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Samriddhi 👋
 
-<!--
-**gurungsamriddhi/gurungsamriddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Student  
+Developer focused on building real-world apps  
+Working with Android (Java), React Native, and Laravel  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🧠 What I'm currently learning
+- Android App Development (Java + Android Studio)
+- React Native (mobile apps)
+- Next.js 
+- Laravel (backend & APIs)
+- Git & GitHub for version control
+
+---
+
+📌 Projects I'm working on
+- PawfectMatch (Pet Adoption Site)
+- Final Year Project (in progress)
+
+---
+
+⚙️ Tech Stack
+- Java
+- JavaScript
+- Android Studio
+- React Native
+- Laravel
+- MySQL (basic backend usage)
+
+---
+
+ 📫 Contact
+Email: grgsamriddhi4@gmail.com
